@@ -127,4 +127,4 @@ This document organizes the quotes from action_quotes.txt by chapter for potenti
 
 ---
 
-*These quotes serve as wisdom anchors, connecting the analytical framework of DSVM to the broader human experience of value, trust, and meaning across cultures and centuries.*
+*These quotes serve as wisdom anchors, connecting the analytical framework of DSET to the broader human experience of value, trust, and meaning across cultures and centuries.*

@@ -74,7 +74,7 @@ The workbook series provides actionable guidance for:
 - Developing trust-generating behaviors and authentic leadership
 
 ### **Organizational Design**
-DSVM offers frameworks for:
+DSET offers frameworks for:
 - Creating regenerative systems that strengthen under pressure
 - Designing incentive structures that align individual and collective good
 - Building transparent accountability systems
@@ -88,7 +88,7 @@ The theory provides tools for:
 - Designing economic policies that support long-term flourishing
 
 ### **Social Renewal**
-DSVM addresses societal challenges through:
+DSET addresses societal challenges through:
 - Trust restoration processes for damaged institutions
 - Community building around shared value creation
 - Cultural transformation toward regenerative rather than extractive norms
@@ -175,7 +175,7 @@ Dual State Economic Theory provides:
 
 ## Core Message
 
-Every economic transaction is a "trust wager" — a moral choice about which value systems to support. By understanding trust as the fundamental substrate of all value, we can make choices that build rather than erode the foundations of human flourishing. DSVM is ultimately a **moral philosophy expressed through economic language**, offering both the diagnosis of our current challenges and the prescription for sustainable renewal.
+Every economic transaction is a "trust wager" — a moral choice about which value systems to support. By understanding trust as the fundamental substrate of all value, we can make choices that build rather than erode the foundations of human flourishing. DSET is ultimately a **moral philosophy expressed through economic language**, offering both the diagnosis of our current challenges and the prescription for sustainable renewal.
 
 The theory's power lies not in its complexity but in its synthesis: providing a unified framework that honors both the practical necessities of economic life and the deeper human need for meaning, purpose, and trustworthy community. It is economics for human beings, not abstract models — value theory that serves life, not the other way around.
 

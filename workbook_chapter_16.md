@@ -1,7 +1,7 @@
 # Chapter 16 Workbook: Personal Action - Individual Ethics Within Trust Economies
 
 ## Chapter Overview
-This workbook focuses on how individuals can live ethically and effectively within trust economies, making decisions that build rather than erode social capital. It bridges the gap between theoretical understanding of value systems and practical daily choices that reflect DSVM principles.
+This workbook focuses on how individuals can live ethically and effectively within trust economies, making decisions that build rather than erode social capital. It bridges the gap between theoretical understanding of value systems and practical daily choices that reflect DSET principles.
 
 ## Key Concepts to Apply
 - **Individual Agency**: How personal choices affect larger trust systems
@@ -93,7 +93,7 @@ This workbook focuses on how individuals can live ethically and effectively with
 5. **Commit publicly**: Share your values with trusted friends for accountability
 
 ### Decision-Making Framework
-**The DSVM Ethics Filter:**
+**The DSET Ethics Filter:**
 1. **Trust Test**: Does this action build or erode trust?
 2. **Value Test**: Does this align with my stated core values?
 3. **Stakeholder Test**: Who is affected and how?
@@ -157,7 +157,7 @@ Craft a personal mission statement that includes:
 - Pay attention to how others respond to your presence and actions
 - Notice patterns in the relationships and opportunities that come your way
 
-## Integration with DSVM Framework
+## Integration with DSET Framework
 
 ### Personal Value States
 - **Potential Value**: Your untapped capacity for good, undeveloped talents and wisdom

@@ -20,7 +20,7 @@ BOOK_NAME="dset_book"
 # Functions
 print_header() {
     echo -e "${BLUE}================================${NC}"
-    echo -e "${BLUE} DSVT (Dual-State Value Theory) Book Generation Script${NC}"
+    echo -e "${BLUE} DSET (Dual State Economic Theory) Book Generation Script${NC}"
     echo -e "${BLUE}================================${NC}"
     echo
 }

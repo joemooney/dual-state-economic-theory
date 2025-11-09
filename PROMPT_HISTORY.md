@@ -1,4 +1,4 @@
-# DSVM Development Prompt History
+# DSET Development Prompt History
 
 ## Session 3 (August 10, 2025): Workbook Development and Quote Integration
 
@@ -106,7 +106,7 @@ User requested development of chapter-specific workbooks based on content in `ac
 - **Practical Focus**: Emphasis on actionable guidance over theoretical explanation
 - **Progressive Complexity**: Workbooks build on concepts from previous chapters
 - **Multiple Contexts**: Personal, professional, organizational, and societal applications
-- **Integration Framework**: Clear connections between chapters and DSVM core concepts
+- **Integration Framework**: Clear connections between chapters and DSET core concepts
 
 #### Quote Attribution Strategy
 - Prioritized properly attributed quotes from recognized sources
@@ -117,7 +117,7 @@ User requested development of chapter-specific workbooks based on content in `ac
 ### Outcomes
 
 #### Immediate Deliverables
-1. **5 Comprehensive Workbooks** providing practical implementation guidance for key DSVM chapters
+1. **5 Comprehensive Workbooks** providing practical implementation guidance for key DSET chapters
 2. **Quote Integration Guide** organizing 100+ quotes by chapter with formatting recommendations
 3. **Project Documentation** including comprehensive overview and detailed requirements
 4. **Standardized Template** for creating remaining chapter workbooks
@@ -151,13 +151,13 @@ User requested development of chapter-specific workbooks based on content in `ac
 - Design online platform for workbook users to share experiences
 - Create progress tracking tools and accountability frameworks
 - Develop facilitator guides for group workbook studies
-- Build connection points between individual users implementing DSVM principles
+- Build connection points between individual users implementing DSET principles
 
 ### Development Philosophy
 
-This session emphasized the critical importance of **bridging theory and practice**. The DSVM framework's power lies not in its theoretical elegance alone, but in its ability to guide real-world decision-making and relationship-building. The workbook series ensures that profound concepts like trust dynamics, value state conversion, and redemption processes become practical tools for daily life.
+This session emphasized the critical importance of **bridging theory and practice**. The DSET framework's power lies not in its theoretical elegance alone, but in its ability to guide real-world decision-making and relationship-building. The workbook series ensures that profound concepts like trust dynamics, value state conversion, and redemption processes become practical tools for daily life.
 
-The quote integration work recognizes that wisdom traditions across centuries have grappled with the same fundamental questions about value, trust, and human flourishing that DSVM addresses. By connecting contemporary theoretical insights with ancient wisdom, the framework gains both credibility and accessibility.
+The quote integration work recognizes that wisdom traditions across centuries have grappled with the same fundamental questions about value, trust, and human flourishing that DSET addresses. By connecting contemporary theoretical insights with ancient wisdom, the framework gains both credibility and accessibility.
 
 ### Technical Notes
 

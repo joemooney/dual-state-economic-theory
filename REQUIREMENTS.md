@@ -1,4 +1,4 @@
-# Dual-State Value Theory (DSVM) - System Requirements
+# Dual State Economic Theory (DSET) - System Requirements
 
 ## Core Theoretical Requirements
 
@@ -106,7 +106,7 @@
 
 ### **Digital Presence**
 - [ ] **Web Accessibility**: Key concepts and frameworks available through multiple digital formats
-- [ ] **Interactive Elements**: Online tools for applying DSVM principles to personal situations
+- [ ] **Interactive Elements**: Online tools for applying DSET principles to personal situations
 - [ ] **Community Platform**: Space for practitioners to share experiences and insights
 - [ ] **Update Mechanism**: Ability to revise and expand theory based on real-world feedback
 
@@ -153,28 +153,28 @@
 ## Success Criteria
 
 ### **Individual Impact**
-- Readers can apply DSVM principles to personal decision-making
+- Readers can apply DSET principles to personal decision-making
 - Framework helps individuals build stronger, more trustworthy relationships
 - People report increased clarity about ethical choices and value creation
 - Personal trust-building skills improve measurably over time
 
 ### **Organizational Transformation**
-- Organizations adopt DSVM principles for institutional design
+- Organizations adopt DSET principles for institutional design
 - Trust metrics become standard part of organizational assessment
 - Workplace cultures shift toward transparency and mutual accountability
 - Business practices align more closely with long-term value creation
 
 ### **Societal Influence**
-- DSVM concepts enter mainstream economic and political discourse
+- DSET concepts enter mainstream economic and political discourse
 - Policy decisions increasingly consider trust dynamics and long-term sustainability
 - Community trust-building initiatives proliferate and succeed
 - Cultural shift toward regenerative rather than extractive economic norms
 
 ### **Academic Recognition**
 - Peer-reviewed publications in economics, philosophy, and theology journals
-- Graduate programs incorporate DSVM concepts in curriculum
+- Graduate programs incorporate DSET concepts in curriculum
 - Other researchers build upon and extend the theoretical framework
-- Cross-disciplinary conferences feature DSVM applications and case studies
+- Cross-disciplinary conferences feature DSET applications and case studies
 
 ---
 

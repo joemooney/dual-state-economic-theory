@@ -1,6 +1,6 @@
-# DSVT Book Generation System
+# DSET Book Generation System
 
-This directory contains a comprehensive book generation system that converts the DSVT (Dual-State Value Theory) markdown chapters into a professional PDF book using LaTeX.
+This directory contains a comprehensive book generation system that converts the DSET (Dual State Economic Theory) markdown chapters into a professional PDF book using LaTeX.
 
 ## Quick Start
 
@@ -35,7 +35,7 @@ This directory contains a comprehensive book generation system that converts the
 
 ## Book Structure
 
-The generated book follows this chapter order based on the DSVM framework:
+The generated book follows this chapter order based on the DSET framework:
 
 ### Front Matter
 - Abstract
@@ -79,7 +79,7 @@ The generated book follows this chapter order based on the DSVM framework:
 - **Custom headers** with chapter names and page numbers
 - **Hyperlinked table of contents** for easy navigation
 - **Professional title page** and copyright page
-- **Mathematical notation support** (custom commands for DSVM equations)
+- **Mathematical notation support** (custom commands for DSET equations)
 
 ### Smart Conversion
 - **Markdown to LaTeX** conversion with proper escaping
@@ -177,17 +177,17 @@ The generated PDF is a **professional academic book** with:
 - 67 pages of content
 - Proper chapter structure and numbering
 - Academic formatting suitable for publication
-- Complete DSVT theoretical framework
+- Complete DSET theoretical framework
 - Mathematical appendix with formal definitions
 
 This represents a **substantial scholarly work** ready for academic review and publication with minor Unicode encoding improvements.
 
 ## Integration with Development Workflow
 
-This book generation system integrates with the DSVM development process:
+This book generation system integrates with the DSET development process:
 - **Automatic updates** when markdown chapters are modified
 - **Version control** friendly (LaTeX source included)
 - **Reproducible builds** across different systems
 - **Professional output** suitable for academic submission
 
-The system supports the complete **DSVM publication pipeline** from research to final book format.
+The system supports the complete **DSET publication pipeline** from research to final book format.

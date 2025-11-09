@@ -115,7 +115,7 @@ When trust breaks down:
 5. **Allow**: Give time and space for trust to rebuild
 6. **Adjust**: Change systems or behaviors to prevent recurrence
 
-## Integration with DSVM Framework
+## Integration with DSET Framework
 
 - **Potential Trust**: Stored reputation, past reliability, systemic credibility
 - **Kinetic Trust**: Active demonstration, current transactions, present trustworthiness

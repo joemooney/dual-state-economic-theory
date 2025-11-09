@@ -181,7 +181,7 @@ This workbook provides practical guidance for navigating trust collapse and impl
 
 5. **Legacy Question**: What kind of redemption story do you want your life to tell?
 
-## Integration with Other DSVM Concepts
+## Integration with Other DSET Concepts
 
 ### Value States in Redemption
 - **Potential Trust**: The trust that could be rebuilt
